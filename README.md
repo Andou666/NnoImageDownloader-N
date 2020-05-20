@@ -22,3 +22,11 @@ N予備校 実践大規模Webアプリ学習用リポジトリ
 |/pictures/:pictureId|GET|変換された画像のバイナリの表示|
 |/properties|GET|プロパティ情報の一覧のJSONを取得するWeb|
 |/users/:twitterId/properties|GET|Twitterユーザーのプロパティ情報の一覧のJSONを取得するWebAPI|
+
+
+## 備考
+
+- mysql 5.7.19
+- redis 4.0.1
+- imagemagick 7.0.6.10
+- [瀬戸フォント](http://setofont.osdn.jp/)
